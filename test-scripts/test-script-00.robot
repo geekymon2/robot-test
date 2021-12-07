@@ -12,3 +12,4 @@ Open Google Search in Browser
     click element  name:q
     input text  name:q  what is robot framework
     press keys  name:q  ENTER
+    [Teardown]    Close All Browsers
