@@ -1,0 +1,11 @@
+tasks:
+  robot test tasks:
+    robotTaskName: Open Google Search in Browser
+condaConfigFile: conda.yaml
+artifactsDir: output
+PATH:
+  - .
+PYTHONPATH:
+  - ./venv/bin/python
+ignoreFiles:
+  - .gitignore

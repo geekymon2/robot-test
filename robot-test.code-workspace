@@ -4,5 +4,8 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.pythonPath": "/home/mon2/.robocorp/holotree/b1f3c244e_691db988/bin/python3",
+		"debug.allowBreakpointsEverywhere": true
+	}
 }
