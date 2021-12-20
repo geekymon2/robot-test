@@ -15,7 +15,7 @@
 				"target": "${file}",
 				"terminal": "integrated",
 				"env": {},
-				"args": ["-d output"]
+				"args": ["-doutput"]
 			}
 		]
 	}
