@@ -132,4 +132,5 @@ output/
 .idea
 *.iml
 log.html
-output.html
+output.xml
+report.html
