@@ -131,3 +131,5 @@ output/
 *.idea
 .idea
 *.iml
+log.html
+output.html
